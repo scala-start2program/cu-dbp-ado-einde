@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.DBProg.Wpf", "Scala.DBProg.Wpf\Scala.DBProg.Wpf.csproj", "{FDCF84B8-5739-4BBF-A6F6-64C6653221FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.DBProg.Core", "Scala.DBProg.Core\Scala.DBProg.Core.csproj", "{3A2F54A2-6440-43B5-B5C3-2FA955194771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCF84B8-5739-4BBF-A6F6-64C6653221FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCF84B8-5739-4BBF-A6F6-64C6653221FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCF84B8-5739-4BBF-A6F6-64C6653221FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCF84B8-5739-4BBF-A6F6-64C6653221FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2F54A2-6440-43B5-B5C3-2FA955194771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2F54A2-6440-43B5-B5C3-2FA955194771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2F54A2-6440-43B5-B5C3-2FA955194771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2F54A2-6440-43B5-B5C3-2FA955194771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C1C12E2-8B3C-4CE8-B8CA-B2DB50C40ECA}
+	EndGlobalSection
+EndGlobal
