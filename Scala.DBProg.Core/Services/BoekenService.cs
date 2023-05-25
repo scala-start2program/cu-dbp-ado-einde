@@ -229,7 +229,7 @@ namespace Scala.DBProg.Core.Services
                     filter += " and ";
                 else
                     filter += " where ";
-                filter = " uitgeverId = '" + uitgever.Id + "'";
+                filter += " uitgeverId = '" + uitgever.Id + "'";
             }
             string sql = "select * from boeken " + filter + " order by titel";
             DataTable dataTable = DBService.ExecuteSelect(sql);
